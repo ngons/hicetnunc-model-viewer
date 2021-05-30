@@ -7,7 +7,7 @@ https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 
 4) In the explorer pane of VS, right click index.html and select "Open with Live Server"
 
-Visual Studio should up the HTML file in the browser after opening it up Live Server.
+Visual Studio should up the open the HTML file in the browser after opening it up Live Server.
 
 If you don't want to use an enivironment image, use environment-image="neutral". Lots of examples can be found here:
 https://modelviewer.dev/examples/loading/index.html
